@@ -145,10 +145,8 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 😷 Data Visualizer](https://shawn1912.github.io/covid-19-p5) ([repo](https://github.com/Shawn1912/covid-19-p5)): A computer graphics project to visualize realtime covid-19 stats using JavaScript libraries - p5.js and grafica.js
 - [COVID-19 Nepal 🇳🇵](https://github.com/milap-neupane/covid19)([repo](https://github.com/milap-neupane/covid19)): A visualization app for iOS and android build with flutter for the covid stats in Nepal.
 - [Covid19-MotionMap](https://github.com/LangeJM/Covid19-MotionMap) ([repo](https://github.com/LangeJM/Covid19-MotionMap)): A Python script to create a gif geo map (motion map) of Covid19 cases world wide.
-- [COVID-19 Dashboard](https://techie448.github.io/covid19/) ([repo](https://github.com/techie448/covid19)): COVID-19 Dashboard created using React and D3. Race Bar Chart, Historical Data and Geographical Map.
 - [COVID-19 Comparative](https://covid19-wrld.web.app) ([repo](https://github.com/lfabianosb/covid19-world)): Compare confirmed cases between countries around the world.
 - [covid19app](https://github.com/bentoavb/covid19app): react native mobile app to monitor covid-19 cases.
-- [Covid-19 Interactive Dashboard for Bangladesh](https://www.co-ronabd.info/) ([repo](https://github.com/KhanShaheb34/nCov19-InteractiveDashboard-BD)): Interactive Dashboard of Bangladesh for the Covid-19 Pandemic
 
 #### Analysis
 
@@ -165,6 +163,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [CovidCubadata](https://covid19cubadata.github.io/world.html) ([repo](https://github.com/covid19cubadata/covid19cubadata.github.io)): Various analysis comparing Cuba with the rest of the world
 - [Covid-19 Predictor India](https://covid-19predictor.herokuapp.com/) ([Covid-19-Prediction](https://github.com/PrateekGoyal18/Covid-19-Prediction)): A web application for forecasting the number of Covid-19 cases in India (cumulative and state-wise).
 - [Covid-19 Pandemic Status](http://corona.rickkln.com/) ([repo](https://github.com/rickkln/corona)): A simple tool to track global progress in defeating Covid-19, by focusing on the rate of change in death count globally and classifying countries by associated status.
+- [covid-19 stats by dprojects](https://github.com/dprojects/covid-19): shows confirmed, deaths %, recovered %, trend index, grow % of confirmed, all data in responsive DataTable with external buttons for quick view.
 
 ### Adding your project to the list
 
